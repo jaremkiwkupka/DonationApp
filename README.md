@@ -16,6 +16,7 @@ This project is written using:
 - React
 - React Router
 - React Scroll
+- SCSS
 - CSS Grid
 - Firebase
 - Formik
